@@ -2,6 +2,7 @@
 
 ## 2019
 
+- [Divy Shah](https://github.com/divyhshah)
 - [Kristiyan](https://github.com/kristiyan-ASW-G-08)
 - [dennypradipta](https://github.com/dennypradipta)
 - [kev1nboer](https://github.com/kev1nboer)
